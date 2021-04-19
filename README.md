@@ -15,4 +15,4 @@
 ![Screenshot (287)](https://user-images.githubusercontent.com/70430274/115313876-ea80b780-a128-11eb-9284-2f18a4b859b8.png)
 <h1>Heroku deployed</h1>
 
-https://budgettracker20215.herokuapp.com/
+https://budgettacker.herokuapp.com/
